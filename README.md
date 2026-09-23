@@ -10,7 +10,7 @@
 
 | 项目 | 解决的问题 | 可以检查的内容 |
 | --- | --- | --- |
-| [SmartDocs-RAG](https://github.com/3330661249/smartdocs-rag) | 对本地文档提问，定位回答所依据的内容 | 文档切分、检索过滤、引用处理、知识库存储与测试 |
+| [SmartDocs-RAG](https://github.com/3330661249/smartdocs-rag) · [合成制度问答案例](https://github.com/3330661249/smartdocs-rag/blob/main/docs/policy-case-study.md) | 在制度版本冲突、资料缺失时判断能否回答并指出依据 | 5 份虚构资料、30 条分层问题、检索与引用的离线评分方法；真实模型效果待复核 |
 | [InsightFlow-Agent](https://github.com/3330661249/insightflow-agent) | 将主题调研组织为可追溯的搜索与报告流程 | 条件路由、搜索工具、失败处理、来源保留与测试 |
 | [个人作品集](https://github.com/3330661249/hejiaxing) | 展示产品经历、项目职责和个人实践 | React / TypeScript 实现、内容结构、组件测试与构建流程 |
 
